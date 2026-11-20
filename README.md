@@ -138,3 +138,6 @@ This repository serves as the official landing page for **Aa Qwertz-Tasten**. Th
 - 💬 **[Community](https://kftnp.berga.top/about-us/)**
 ---
 **Get the most recent version of Aa Qwertz-Tasten today!**
+
+---
+**Last updated:** 2026-11-20 02:00:34 UTC
